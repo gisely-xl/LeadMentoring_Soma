@@ -1,0 +1,14 @@
+C:\Users\gisely.araujo\source\repos\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.exe
+C:\Users\gisely.araujo\source\repos\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.deps.json
+C:\Users\gisely.araujo\source\repos\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.runtimeconfig.json
+C:\Users\gisely.araujo\source\repos\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.runtimeconfig.dev.json
+C:\Users\gisely.araujo\source\repos\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.dll
+C:\Users\gisely.araujo\source\repos\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.pdb
+C:\Users\gisely.araujo\source\repos\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.csproj.AssemblyReference.cache
+C:\Users\gisely.araujo\source\repos\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.AssemblyInfoInputs.cache
+C:\Users\gisely.araujo\source\repos\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.AssemblyInfo.cs
+C:\Users\gisely.araujo\source\repos\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\gisely.araujo\source\repos\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.dll
+C:\Users\gisely.araujo\source\repos\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.pdb
+C:\Users\gisely.araujo\source\repos\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.genruntimeconfig.cache
+C:\Users\gisely.araujo\source\repos\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
